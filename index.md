@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 郭俊涛的博客
+tagline: 躲进小楼成一统，管他冬夏与春秋
 ---
 {% include JB/setup %}
 
