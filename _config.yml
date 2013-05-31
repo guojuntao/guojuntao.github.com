@@ -12,10 +12,10 @@ pygments: true
 title : 郭俊涛
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Juntao Guo
+  email : guojuntao1@gmail.com
+  github : guojuntao
+  twitter : guojuntao
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
