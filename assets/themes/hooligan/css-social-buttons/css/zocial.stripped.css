@@ -100,7 +100,7 @@ a.zocial {
 .zocial.disqus:before {content: "\E030";}
 .zocial.dribbble:before {content: "\E023";}
 .zocial.dropbox:before {content: "\E043"; color: #1f75cc;}
-.zocial.email:before {content: "\E03C"; color: #312c2a;}
+.zocial.email:before {content: "\E03C";}
 .zocial.eventasaurus:before {content: "\E055"; color: #9de428;}
 .zocial.eventbrite:before {content: "\E05B";}
 .zocial.eventful:before {content: "\E006"; color: #0066CC;}
