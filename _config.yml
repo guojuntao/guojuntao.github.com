@@ -9,10 +9,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : My Website
+title : 郭俊涛的个人博客
 tagline: Site Tagline
 author :
-  name : Juntao Guo
+  name : GuoJuntao
   email : guojuntao1@gmail.com
   github : guojuntao
   twitter : guojuntao

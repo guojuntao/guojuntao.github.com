@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 郭俊涛
+title: 这是一个有待更改的首页
 ---
 {% include JB/setup %}
 
