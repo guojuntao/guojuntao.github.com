@@ -1,11 +1,11 @@
 ---
 layout: post
+title: 读《Unix/Linux编程实践教程》
 category : books
 tags : [unix, linux, program]
 ---
 {% include JB/setup %}
 
-# 读《Unix/Linux编程实践教程》#
 *原版名《Understanding Unix/Linux Programming -- A Guide to Theory and Practice》*
 
 ##适合读者人群##
@@ -25,6 +25,7 @@ tags : [unix, linux, program]
 读完本书，再去翻翻《Unix环境高级编程》以及《Linux程序设计》，大致可以知道Unix编程都需要掌握哪些方面的内容。
 
 - 文件操作（文件I/O，文件和目录，文件系统，设备）
+
 - 进程与线程
 - 信号机制
 - 进程间通信IPC（socket，管道，命名管道，消息队列，共享文件与文件锁，共享内存与信号量）
