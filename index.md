@@ -42,22 +42,8 @@ Here's a sample "posts list".
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
- <li><a href="/archive.html">Archive</a></li>
--        
--      
-     
-   
-     
-       
--        
--        <li><a href="/categories.html">Categories</a></li>
--        
--      
-     
-   
-     
-       
-         
--        <li><a href="/tags.html">Tags</a></li>
+<li><a href="/archive.html">Archive</a></li>
+<li><a href="/categories.html">Categories</a></li>
+<li><a href="/tags.html">Tags</a></li>
 
 
