@@ -6,7 +6,7 @@ tags : [unix, linux, program]
 ---
 {% include JB/setup %}
 
-*a原版名《Understanding Unix/Linux Programming -- A Guide to Theory and Practice》*
+_原版名《Understanding Unix/Linux Programming -- A Guide to Theory and Practice》_
 
 *View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
 
